@@ -1,1 +1,7 @@
-# Yolo11_Simple_Example
+# Simple Yolo traning and inference example
+
+## Run it
+`python train.py`
+
+## Result
+
