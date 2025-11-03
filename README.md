@@ -2,7 +2,7 @@
 
 ## Install
 
-[Ultralytics YOLO Documents](https://docs.ultralytics.com/)
+Follow the [Ultralytics YOLO Documents](https://docs.ultralytics.com/) for the installations.
 
 ![yolo](https://github.com/wincle626/Yolo11_Simple_Example/blob/main/performance-comparison.png)
 
